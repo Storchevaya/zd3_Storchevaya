@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263D78DF-8A4A-4387-A1F8-FBF7EAAC4862}|zd3_Storchevaya.csproj|C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{263D78DF-8A4A-4387-A1F8-FBF7EAAC4862}|zd3_Storchevaya.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B4AA40-247A-4119-B821-78554ACC27EE}|..\\zd3_Storchevaya.Tests\\zd3_Storchevaya.Tests.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044E\u0448\u0430\\desktop\\\u0443\u043F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_storchevaya.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263D78DF-8A4A-4387-A1F8-FBF7EAAC4862}|zd3_Storchevaya.csproj|C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263D78DF-8A4A-4387-A1F8-FBF7EAAC4862}|zd3_Storchevaya.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263D78DF-8A4A-4387-A1F8-FBF7EAAC4862}|zd3_Storchevaya.csproj|C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\reinforcedroadwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263D78DF-8A4A-4387-A1F8-FBF7EAAC4862}|zd3_Storchevaya.csproj|solutionrelative:reinforcedroadwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263D78DF-8A4A-4387-A1F8-FBF7EAAC4862}|zd3_Storchevaya.csproj|C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\roadwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263D78DF-8A4A-4387-A1F8-FBF7EAAC4862}|zd3_Storchevaya.csproj|solutionrelative:roadwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\zd3_Storchevaya.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\zd3_Storchevaya.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAkwOYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:20:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReinforcedRoadWork.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\ReinforcedRoadWork.cs",
+              "RelativeDocumentMoniker": "ReinforcedRoadWork.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\ReinforcedRoadWork.cs",
+              "RelativeToolTip": "ReinforcedRoadWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:20:22.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoadWork.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\RoadWork.cs",
+              "RelativeDocumentMoniker": "RoadWork.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\RoadWork.cs",
+              "RelativeToolTip": "RoadWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:20:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAABIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:14:24.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044E\u0448\u0430\\Desktop\\\u0423\u041F_\u043C\u0438\u0440\u043E\u0448\u043D\u0438\u0447\u0435\u043D\u043A\u043E\\zd3\\zd3_Storchevaya\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-10T04:14:25.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
